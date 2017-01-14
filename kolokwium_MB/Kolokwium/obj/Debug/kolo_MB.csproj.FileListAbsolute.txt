@@ -1,0 +1,12 @@
+C:\Users\local\Desktop\kolokwium_MB - Kopia\Kolokwium\bin\Debug\Kolokwium.exe.config
+C:\Users\local\Desktop\kolokwium_MB - Kopia\Kolokwium\bin\Debug\Kolokwium.exe
+C:\Users\local\Desktop\kolokwium_MB - Kopia\Kolokwium\bin\Debug\Kolokwium.pdb
+C:\Users\local\Desktop\kolokwium_MB - Kopia\Kolokwium\obj\Debug\kolo_MB.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\kolokwium_MB - Kopia\Kolokwium\obj\Debug\Kolokwium.exe
+C:\Users\local\Desktop\kolokwium_MB - Kopia\Kolokwium\obj\Debug\Kolokwium.pdb
+C:\Users\local\Desktop\kolokwium_MB\Kolokwium\bin\Debug\Kolokwium.exe.config
+C:\Users\local\Desktop\kolokwium_MB\Kolokwium\obj\Debug\Kolokwium.exe
+C:\Users\local\Desktop\kolokwium_MB\Kolokwium\obj\Debug\Kolokwium.pdb
+C:\Users\local\Desktop\kolokwium_MB\Kolokwium\bin\Debug\Kolokwium.exe
+C:\Users\local\Desktop\kolokwium_MB\Kolokwium\bin\Debug\Kolokwium.pdb
+C:\Users\local\Desktop\kolokwium_MB\Kolokwium\obj\Debug\kolo_MB.csprojResolveAssemblyReference.cache
